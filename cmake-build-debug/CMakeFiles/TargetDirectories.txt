@@ -1,0 +1,3 @@
+C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/cmake-build-debug/CMakeFiles/PROYECTO_PROG_IV_C__.dir
+C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
