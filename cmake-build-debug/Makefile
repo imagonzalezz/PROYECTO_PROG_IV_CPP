@@ -141,6 +141,33 @@ PROYECTO_PROG_IV_C__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/build
 .PHONY : PROYECTO_PROG_IV_C__/fast
 
+ff.obj: ff.cpp.obj
+
+.PHONY : ff.obj
+
+# target to build an object file
+ff.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/ff.cpp.obj
+.PHONY : ff.cpp.obj
+
+ff.i: ff.cpp.i
+
+.PHONY : ff.i
+
+# target to preprocess a source file
+ff.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/ff.cpp.i
+.PHONY : ff.cpp.i
+
+ff.s: ff.cpp.s
+
+.PHONY : ff.s
+
+# target to generate assembly for a file
+ff.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/ff.cpp.s
+.PHONY : ff.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -177,6 +204,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... PROYECTO_PROG_IV_C__
+	@echo ... ff.obj
+	@echo ... ff.i
+	@echo ... ff.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

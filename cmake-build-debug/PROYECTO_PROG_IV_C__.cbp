@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/ff.cpp">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/ff.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
 		<Unit filename="C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/main.cpp">
 			<Option target="PROYECTO_PROG_IV_C__"/>
 		</Unit>

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/PROYECTO_PROG_IV_C__.dir/ff.cpp.obj"
   "CMakeFiles/PROYECTO_PROG_IV_C__.dir/main.cpp.obj"
   "PROYECTO_PROG_IV_C__.exe"
   "PROYECTO_PROG_IV_C__.exe.manifest"

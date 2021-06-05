@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/ff.cpp" "C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/cmake-build-debug/CMakeFiles/PROYECTO_PROG_IV_C__.dir/ff.cpp.obj"
   "C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/main.cpp" "C:/Users/imano/Desktop/CLion/C++/PROYECTO_PROG_IV_C++/cmake-build-debug/CMakeFiles/PROYECTO_PROG_IV_C__.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
