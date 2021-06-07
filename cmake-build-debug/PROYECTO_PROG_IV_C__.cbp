@@ -80,16 +80,55 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/BD.cpp">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/BD.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/ConMemoria.cpp">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/ConMemoria.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
 		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Dispositivo.cpp">
 			<Option target="PROYECTO_PROG_IV_C__"/>
 		</Unit>
 		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Dispositivo.h">
 			<Option target="PROYECTO_PROG_IV_C__"/>
 		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Estructuras.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Ordenador.cpp">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Ordenador.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Tele.cpp">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Tele.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Telefono.cpp">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Telefono.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
 		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Usuario.cpp">
 			<Option target="PROYECTO_PROG_IV_C__"/>
 		</Unit>
 		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Usuario.h">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Venta.cpp">
+			<Option target="PROYECTO_PROG_IV_C__"/>
+		</Unit>
+		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/Venta.h">
 			<Option target="PROYECTO_PROG_IV_C__"/>
 		</Unit>
 		<Unit filename="C:/Users/ikery/CLionProjects/ProyectoCPP/main.cpp">

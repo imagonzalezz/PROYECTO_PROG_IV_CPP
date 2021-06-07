@@ -142,6 +142,60 @@ PROYECTO_PROG_IV_C__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/build
 .PHONY : PROYECTO_PROG_IV_C__/fast
 
+BD.obj: BD.cpp.obj
+
+.PHONY : BD.obj
+
+# target to build an object file
+BD.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/BD.cpp.obj
+.PHONY : BD.cpp.obj
+
+BD.i: BD.cpp.i
+
+.PHONY : BD.i
+
+# target to preprocess a source file
+BD.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/BD.cpp.i
+.PHONY : BD.cpp.i
+
+BD.s: BD.cpp.s
+
+.PHONY : BD.s
+
+# target to generate assembly for a file
+BD.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/BD.cpp.s
+.PHONY : BD.cpp.s
+
+ConMemoria.obj: ConMemoria.cpp.obj
+
+.PHONY : ConMemoria.obj
+
+# target to build an object file
+ConMemoria.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/ConMemoria.cpp.obj
+.PHONY : ConMemoria.cpp.obj
+
+ConMemoria.i: ConMemoria.cpp.i
+
+.PHONY : ConMemoria.i
+
+# target to preprocess a source file
+ConMemoria.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/ConMemoria.cpp.i
+.PHONY : ConMemoria.cpp.i
+
+ConMemoria.s: ConMemoria.cpp.s
+
+.PHONY : ConMemoria.s
+
+# target to generate assembly for a file
+ConMemoria.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/ConMemoria.cpp.s
+.PHONY : ConMemoria.cpp.s
+
 Dispositivo.obj: Dispositivo.cpp.obj
 
 .PHONY : Dispositivo.obj
@@ -169,6 +223,87 @@ Dispositivo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Dispositivo.cpp.s
 .PHONY : Dispositivo.cpp.s
 
+Ordenador.obj: Ordenador.cpp.obj
+
+.PHONY : Ordenador.obj
+
+# target to build an object file
+Ordenador.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Ordenador.cpp.obj
+.PHONY : Ordenador.cpp.obj
+
+Ordenador.i: Ordenador.cpp.i
+
+.PHONY : Ordenador.i
+
+# target to preprocess a source file
+Ordenador.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Ordenador.cpp.i
+.PHONY : Ordenador.cpp.i
+
+Ordenador.s: Ordenador.cpp.s
+
+.PHONY : Ordenador.s
+
+# target to generate assembly for a file
+Ordenador.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Ordenador.cpp.s
+.PHONY : Ordenador.cpp.s
+
+Tele.obj: Tele.cpp.obj
+
+.PHONY : Tele.obj
+
+# target to build an object file
+Tele.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Tele.cpp.obj
+.PHONY : Tele.cpp.obj
+
+Tele.i: Tele.cpp.i
+
+.PHONY : Tele.i
+
+# target to preprocess a source file
+Tele.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Tele.cpp.i
+.PHONY : Tele.cpp.i
+
+Tele.s: Tele.cpp.s
+
+.PHONY : Tele.s
+
+# target to generate assembly for a file
+Tele.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Tele.cpp.s
+.PHONY : Tele.cpp.s
+
+Telefono.obj: Telefono.cpp.obj
+
+.PHONY : Telefono.obj
+
+# target to build an object file
+Telefono.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Telefono.cpp.obj
+.PHONY : Telefono.cpp.obj
+
+Telefono.i: Telefono.cpp.i
+
+.PHONY : Telefono.i
+
+# target to preprocess a source file
+Telefono.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Telefono.cpp.i
+.PHONY : Telefono.cpp.i
+
+Telefono.s: Telefono.cpp.s
+
+.PHONY : Telefono.s
+
+# target to generate assembly for a file
+Telefono.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Telefono.cpp.s
+.PHONY : Telefono.cpp.s
+
 Usuario.obj: Usuario.cpp.obj
 
 .PHONY : Usuario.obj
@@ -195,6 +330,33 @@ Usuario.s: Usuario.cpp.s
 Usuario.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Usuario.cpp.s
 .PHONY : Usuario.cpp.s
+
+Venta.obj: Venta.cpp.obj
+
+.PHONY : Venta.obj
+
+# target to build an object file
+Venta.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Venta.cpp.obj
+.PHONY : Venta.cpp.obj
+
+Venta.i: Venta.cpp.i
+
+.PHONY : Venta.i
+
+# target to preprocess a source file
+Venta.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Venta.cpp.i
+.PHONY : Venta.cpp.i
+
+Venta.s: Venta.cpp.s
+
+.PHONY : Venta.s
+
+# target to generate assembly for a file
+Venta.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PROYECTO_PROG_IV_C__.dir\build.make CMakeFiles/PROYECTO_PROG_IV_C__.dir/Venta.cpp.s
+.PHONY : Venta.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -232,12 +394,30 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... PROYECTO_PROG_IV_C__
+	@echo ... BD.obj
+	@echo ... BD.i
+	@echo ... BD.s
+	@echo ... ConMemoria.obj
+	@echo ... ConMemoria.i
+	@echo ... ConMemoria.s
 	@echo ... Dispositivo.obj
 	@echo ... Dispositivo.i
 	@echo ... Dispositivo.s
+	@echo ... Ordenador.obj
+	@echo ... Ordenador.i
+	@echo ... Ordenador.s
+	@echo ... Tele.obj
+	@echo ... Tele.i
+	@echo ... Tele.s
+	@echo ... Telefono.obj
+	@echo ... Telefono.i
+	@echo ... Telefono.s
 	@echo ... Usuario.obj
 	@echo ... Usuario.i
 	@echo ... Usuario.s
+	@echo ... Venta.obj
+	@echo ... Venta.i
+	@echo ... Venta.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
